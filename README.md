@@ -1,0 +1,1 @@
+This is a Python Spam Detector Webapp. The machine learning raw code is in "MachineLearningPart.py" file and the web app code is in "app.py" file. I have already pickled the model and vertorizer in files called "model.pkl" and "vectorizer.pkl". I would love to see you guys contribute to the prject. Happy coding :)
